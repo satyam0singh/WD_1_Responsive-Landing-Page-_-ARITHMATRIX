@@ -2,7 +2,7 @@
 
 A fully responsive landing page built with **HTML, CSS, and JavaScript**, designed to showcase a product/service with a modern layout, interactive features, and optimized mobile experience.  
 
-![Landing Page Preview](screenshots/demo.png)
+![Landing Page Preview]("C:\S DRIVE\temporary personal\pics\Screenshots\Screenshot 2025-08-31 140130.png")
 
 ---
 
