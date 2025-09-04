@@ -26,10 +26,11 @@ A fully responsive landing page built with **HTML, CSS, and JavaScript**, design
 ---
 
 ## 📂 Project Structure
-responsive-landing-page/
-│── index.html # Main HTML file (with inline JS)
-│── style.css # Stylesheet for design & responsiveness
-│── screenshots/ # Screenshots of desktop & mobile view
-│── README.md # Documentation
-│── assests/ # Contains images used in landing page
+
+responsive-landing-page/ <br> 
+│── index.html # Main HTML file (with inline JS) <br> 
+│── style.css # Stylesheet for design & responsiveness <br> 
+│── screenshots/ # Screenshots of desktop & mobile view <br> 
+│── README.md # Documentation <br> 
+│── assests/ # Contains images used in landing page <br> 
 
